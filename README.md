@@ -1,24 +1,24 @@
 # Bienvenido a mi página de GitHub
 ![]()
 
-Hola, mi nombre es ----- y este es mi sitio en GitHub Pages. Este sitio es una forma para compartir información sobre mí y mi trabajo con el mundo.
+Hola, mi nombre es Jhonny Arias y este es mi sitio en GitHub Pages. Este sitio es una forma para compartir información sobre mí y mi trabajo con el mundo.
 
 ## Acerca de mí
-Soy estudiante -------- . Me apasiona leer y aprender mucho más de mi carrera por ese motivo estoy siempre buscando nuevos desafíos y oportunidades para aprender y crecer.
+Soy estudiante de la universidad de Guayaquil . Me apasiona jugar, estudiar y aprender mucho más de mi carrera por ese motivo estoy siempre buscando nuevos desafíos y oportunidades para aprender y crecer.
 
 ## Proyectos
 Aquí hay algunos de mis proyectos más destacados:
 
-- [Nombre del proyecto 1](link al proyecto 1): Una descripción breve del proyecto 1.
+- https://github.com/Jhonnyarias712/bot_telegram
 
-- [Nombre del proyecto 2](link al proyecto 2): Una descripción breve del proyecto 2.
+- https://github.com/Jhonnyarias712/Proyecto_2Parcial2021
 
-- [Nombre del proyecto 3](link al proyecto 3): Una descripción breve del proyecto 3.
+- https://github.com/Jhonnyarias712/Practica_tuto
 
 ## Contacto
-Si desea contactarme, puede hacerlo a través de mi correo electrónico en 
+Si desea contactarme, puede hacerlo a través de mi correo electrónico en jhonnyarias@gmail.com
 
-También puede encontrarme en Facebook: 
+También puede encontrarme en Facebook: Jhonny Arias
 
 Gracias por visitar mi sitio en GitHub Pages. ¡Espero que lo encuentre útil y interesante!
 
