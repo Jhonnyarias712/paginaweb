@@ -1,5 +1,5 @@
 # Bienvenido a mi página de GitHub
-![]()
+![](https://github.com/Jhonnyarias712/paginaweb/blob/20c3aeea002ac244fc45f8a4e9127a94afbc276a/foto%20del%20papu.jpg)
 
 Hola, mi nombre es Jhonny Arias y este es mi sitio en GitHub Pages. Este sitio es una forma para compartir información sobre mí y mi trabajo con el mundo.
 
